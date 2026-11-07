@@ -1,0 +1,57 @@
+.h1{
+	color: darkred;
+	background: salmon;
+	text-align: center;
+}
+.xd{
+	background-color: salmon;
+	color: darkred;
+}
+.nav ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	display: flex;
+	justify-content: center;
+	gap: 100px;
+	background-color: salmon;
+	
+
+}
+.izquierda{
+	float: left;
+	height: 515px;
+	background-color: darkred;
+	color: salmon;
+	border: 2px solid white;
+	width: 200px;
+	text-align: center;
+}	
+.derecha{
+	float: right;
+	height: 515px;
+	background-color: darkred;
+	color: salmon;
+	border: 2px solid white;
+	width: 200px;
+	text-align: center;
+}
+main{
+	text-align: center;
+	border: 2px solid white;
+	}	
+
+
+
+
+footer{
+	background-color:darkred;
+	color: salmon;
+	margin: 30px;
+	padding: 75px;
+	text-align: center;
+}
+div{ text-align: center;
+	
+    
+}
